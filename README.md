@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am Ivan Luyimbazi.
+I am a front-end web developer with skills in CSS, HTML, Javascript, PHP.
 
 <!--
 **iluyimbazi/iluyimbazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
