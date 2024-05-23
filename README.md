@@ -2,7 +2,9 @@
 I am Ivan Luyimbazi. I am a front-end web developer with CSS, HTML, Javascript, and PHP skills.<br>
 😄 Pronouns: He/Him/His<br>
 ⚡ Fun fact: I used to be a medical doctor.<br>
-I’m currently working on redesigning two websites.
+I’m currently working on redesigning two websites.<br>
+How to reach me: <a href="mailto:dev@livan.dev?>Email Me</a>
+
 
 
 
