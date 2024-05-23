@@ -1,6 +1,10 @@
 ## Hi there 👋
-I am Ivan Luyimbazi.
-I am a front-end web developer with skills in CSS, HTML, Javascript, PHP.
+I am Ivan Luyimbazi. I am a front-end web developer with CSS, HTML, Javascript, and PHP skills.
+😄 Pronouns: He/Him/His
+⚡ Fun fact: I used to be a medical doctor.
+I’m currently working on redesigning two websites.
+
+
 
 <!--
 **iluyimbazi/iluyimbazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
