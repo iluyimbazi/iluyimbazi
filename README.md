@@ -19,7 +19,7 @@
 
 ## The Music I Love 🎶
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/gb/playlist/too-country/pl.u-XkD048rUgDkPqR"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6PNJYI1OkjrtjmsqoC927k?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## My Tech Stack ⚡
 
