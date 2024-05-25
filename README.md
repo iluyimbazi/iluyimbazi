@@ -3,6 +3,7 @@
 <h1 align="center">Hello 👋, Glad You are here.</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F715A4&random=false&width=435&lines=Hello!+;I+am+Ivan.;I+am+a+Frot-end+developer" alt="Typing SVG" /></a>
 
+
 - Fun fact: I used to be a doctor
 
 - I love Fintech
@@ -17,9 +18,6 @@
 
 ![views](https://komarev.com/ghpvc/?username=iluyimbazi&style=fflat-square&color=54856b)
 
-## The Music I Love 🎶
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6PNJYI1OkjrtjmsqoC927k?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## My Tech Stack ⚡
 
