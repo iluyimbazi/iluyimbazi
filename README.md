@@ -1,9 +1,9 @@
-## <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hello 👋, Nice to meet you.</h1>
+<h1 align="center">Hello 👋, Glad You are here.</h1>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=08CE90&size=24&center=true&vCenter=true&lines=Hello+everyone!!!;My+name is Ivan.;I'm+a+front-end developer." alt="typing intro">
 </p>
-<p align="center">I am skilled in HTML, CSS and Javascript
+<p align="center">I am skilled in HTML, CSS and Javascript.
 
 - Fun fact: I used to be a doctor
 
@@ -37,24 +37,3 @@
 
 <p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iluyimbazi&theme=darcula" alt="GitHub Streak" /></a>
-
-How to reach me: <a href="mailto:dev@livan.dev?">Email Me</a> <br>
-![](https://komarev.com/ghpvc/?username=iluyimbazi)
-
-
-
-
-<!--
-**iluyimbazi/iluyimbazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
