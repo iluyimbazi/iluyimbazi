@@ -10,7 +10,7 @@
 
 - 💬 Ask me about the front-end
 
-🚀 [Website](https://livan.dev)
+🚀 [LinkedIn](https://linkedin.com/in/luyimbazi)
 
 </p>
 
