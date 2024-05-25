@@ -10,8 +10,6 @@
 
 - 💬 Ask me about the front-end
 
-🚀 [LinkedIn](https://linkedin.com/in/luyimbazi)
-
 </p>
 
 ### Page Views 👀
