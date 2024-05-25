@@ -1,8 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hello 👋, Glad You are here.</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello!+;I+am+Ivan.;I+am+a+Frot-end+developer" alt="Typing SVG" /></a>
-<p align="center">I am skilled in HTML, CSS and Javascript.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F715A4&random=false&width=435&lines=Hello!+;I+am+Ivan.;I+am+a+Frot-end+developer" alt="Typing SVG" /></a>
 
 - Fun fact: I used to be a doctor
 
