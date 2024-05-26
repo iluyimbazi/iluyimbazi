@@ -6,7 +6,6 @@
  - Fun fact: I used to be a doctor
 
 - I love Fintech
-
 - 💬 Ask me about the front-end
 
 </p>
