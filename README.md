@@ -3,10 +3,11 @@
 <h1 align="center">Hello 👋, Glad You are here.</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F715A4&random=false&width=435&lines=Hello!+;I+am+Ivan.;I+am+a+Front-end+developer" alt="Typing SVG" /></a>
 
- - Fun fact: I used to be a doctor
-
-- I love Fintech
-- 💬 Ask me about the front-end
+ <ul>
+ <li></li>Fun fact: I used to be a doctor</li>
+<li>I love Fintech</li>
+<li>💬 Ask me about the front-end</li>
+  </ul>
 
 </p>
 
