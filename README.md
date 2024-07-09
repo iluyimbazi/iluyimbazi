@@ -49,7 +49,7 @@
 
 ## 📩 How to contact me
 
-<P>You can reach me on my [LinkedIn profile](www.linkedin.com/in/luyimbazi) and on [Twitter (X)](www.twitter.com/iluyimbazi) </P>
+<P>You can contact me on my <a href="www.linkedin.com/in/luyimbazi">LinkedIn profile</a> and on <a href="www.twitter.com/iluyimbazi">Twitter (X)</a> </P>
 
 ## 🫱🏿‍🫲🏻 Let's Collaborate
 
