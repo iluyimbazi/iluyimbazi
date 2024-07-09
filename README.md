@@ -11,6 +11,15 @@
 
 </p>
 
+### What I am Learning 💀
+<ul>
+ <li>Meta Front-End development course</li>
+ <li>Javascript</li>
+ <li>React</li>
+</ul>
+
+
+
 ### Page Views 👀
 
 ![views](https://komarev.com/ghpvc/?username=iluyimbazi&style=fflat-square&color=54856b)
