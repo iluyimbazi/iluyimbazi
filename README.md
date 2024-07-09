@@ -6,7 +6,7 @@
  <ul>
 <li>Fun fact: I used to be a doctor</li>
 <li>I love Fintech</li>
-<li>💬 Ask me about the front-end</li>
+<li> Ask me about the front-end</li>
 </ul>
 
 </p>
