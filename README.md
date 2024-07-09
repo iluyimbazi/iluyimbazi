@@ -7,6 +7,7 @@
 <li>Fun fact: I used to be a doctor</li>
 <li>I love Fintech</li>
 <li> Ask me about the front-end</li>
+  <li> Lifelong learner</li>
 </ul>
 
 </p>
@@ -28,7 +29,7 @@
 ![views](https://komarev.com/ghpvc/?username=iluyimbazi&style=fflat-square&color=54856b)
 
 
-## My Tech Stack ⚡
+## ⚡ My Tech Stack 
 
 ![Cpanel](https://img.shields.io/static/v1?style=for-the-badge&message=Cpanel&color=FF7E00&logo=cpanel&logoColor=FFFFFF&label=)
 ![Cloudflare](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudflare&color=212121&logo=Cloudflare&logoColor=ffff&label=)
@@ -44,3 +45,10 @@
 
 <p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iluyimbazi&theme=darcula" alt="GitHub Streak" /></a>
+
+## 📩 How to contact me
+
+<P>You can reach me on my [LinkedIn profile](www.linkedin.com/in/luyimbazi) and on [Twitter (X)](www.twitter.com/iluyimbazi) </P>
+
+## 🫱🏿‍🫲🏻 Let's Collaborate
+
